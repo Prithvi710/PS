@@ -1,0 +1,124 @@
+body{
+  background-color: #bedbbb;
+  margin: 10px 0 0 0;
+  text-align: center;
+}
+.top-container{
+  color: #707070;
+  font-family: 'Sacramento', cursive;
+  font-size: 2rem;
+  line-height: 2;
+
+}
+.middle-container{
+  font-family: 'Roboto Condensed', cursive;
+}
+.bottom-container{
+  background: #707070;
+  color: #bedbbb;
+  margin-bottom: 0;
+  padding-top: 15px;
+  padding-bottom: 5px;
+}
+.hill{
+  width: 100%;
+  position: absolute;
+  left: 0;
+
+}
+.subhead{
+  font-weight: normal;
+}
+#profile{
+  border-radius: 104px;
+  margin-top: 500px;
+  height: 200px;
+}
+.skill_img1{
+  height: 200px;
+  border-radius: 104px;
+  float: left;
+  margin-right: 30px;
+}
+.skill_img2{
+  height: 200px;
+  border-radius: 104px;
+  float: right;
+  margin-left: 30px;
+}
+h1{
+  margin-bottom: 10px;
+}
+h2{
+  size: 2rem;
+  margin-top: 10px;
+  color: #707070
+}
+h3{
+  color: #92817a;
+}
+a{
+  color: #bedbbb;
+  padding: 0 10px;
+  text-decoration: none;
+  font-family: "Roboto Condensed";
+}
+a:hover{
+  color: #8db596;
+}
+.intro{
+  width: 50%;
+  margin: auto;
+}
+hr{
+  width: 10%;
+  border: none;
+  border-top: 5px dotted;
+  color: #8db596;
+  margin: 50px auto;
+}
+.skill-row{
+  width: 50%;
+  margin: 100px auto;
+  line-height: 2;
+  text-align: left;
+}
+.copyright{
+  font-size: 10px;
+}
+.BUTTON_SGJ {
+   background: #92817A;
+   background-image: -webkit-linear-gradient(top, #92817A, #707070);
+   background-image: -moz-linear-gradient(top, #92817A, #707070);
+   background-image: -ms-linear-gradient(top, #92817A, #707070);
+   background-image: -o-linear-gradient(top, #92817A, #707070);
+   background-image: -webkit-gradient(to bottom, #92817A, #707070);
+   -webkit-border-radius: 20px;
+   -moz-border-radius: 20px;
+   border-radius: 10px;
+   color: #BEDBBB;
+   font-family: "Roboto Condensed";
+   font-size: 20px;
+   font-weight: 100;
+   padding: 5px 15PX;
+   margin: 50px auto 100px auto;;
+   border: none;
+   text-decoration: none;
+   display: inline-block;
+   cursor: pointer;
+   text-align: center;
+}
+
+.BUTTON_SGJ:hover {
+   border: solid #FFFFFF 1px;
+   background: #707070;
+   background-image: -webkit-linear-gradient(top, #707070, #92817A);
+   background-image: -moz-linear-gradient(top, #707070, #92817A);
+   background-image: -ms-linear-gradient(top, #707070, #92817A);
+   background-image: -o-linear-gradient(top, #707070, #92817A);
+   background-image: -webkit-gradient(to bottom, #707070, #92817A);
+   -webkit-border-radius: 10px;
+   -moz-border-radius: 20px;
+   border-radius: 10px;
+   text-decoration: none;
+}
